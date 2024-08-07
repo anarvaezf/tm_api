@@ -1,0 +1,6 @@
+{
+"shopping-list":[
+    {id:1, title:'test 1'},
+   {id:2, title:'test 2'}
+]
+}
